@@ -1,0 +1,1 @@
+运用“limma”包，以Distal为对照组和Proximal实验组进行差异分析，观察相关蛋白的表达情况。接下来我们选取logfc前五十的差异蛋白绘制table2

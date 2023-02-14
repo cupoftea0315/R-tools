@@ -1,0 +1,2 @@
+运用“ggplot2”R包，对差异蛋白绘制火山图
+结果可知hapln1a、itih3a、capn12、muc5.2、zgc:172244等基因存在着显著的差异性，其logfc值均大于4
